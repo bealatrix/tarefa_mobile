@@ -143,7 +143,7 @@ class TextSection extends StatelessWidget {
     return Padding(
       padding: const EdgeInsets.all(32),
       child: Text(
-        description,
+        description,  
         softWrap: true,
         textAlign: textAlign,
       ),

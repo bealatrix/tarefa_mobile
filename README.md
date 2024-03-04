@@ -6,10 +6,12 @@ Objeto de estudo na displina Desenvolvimento para Dispositivos Móveis <br/>
 </p>
 
 <br>
+<p align="center">
+  <img alt="Atividade" src=".github/tarefa.png" width="100%">
+</p>
 
 ## Tecnologias Utilizadas
 
 - Dart
 - Flutter
 - Git & GitHub
-
