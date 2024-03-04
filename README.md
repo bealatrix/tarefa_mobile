@@ -1,16 +1,15 @@
-# aula_01_03
+<h1 align="center"> Atividade Avaliativa de Dart com Flutter  </h1>
 
-A new Flutter project.
+<p align="center">
+Atividade Avaliativa de Dart com Flutter (Em Construção) <br/>
+Objeto de estudo na displina Desenvolvimento para Dispositivos Móveis <br/>
+</p>
 
-## Getting Started
+<br>
 
-This project is a starting point for a Flutter application.
+## Tecnologias Utilizadas
 
-A few resources to get you started if this is your first Flutter project:
+- Dart
+- Flutter
+- Git & GitHub
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
